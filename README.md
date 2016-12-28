@@ -13,4 +13,5 @@ npm install -g hexo
 npm install
 ```
 最后使用hexo方式新建和编写博客，hexo使用方法[参考地址](https://github.com/hexojs/hexo)。
-博客访问地址：[https://dtstackfe.github.io/](https://dtstackfe.github.io/)
+
+博客发布地址：[https://dtstackfe.github.io/](https://dtstackfe.github.io/)

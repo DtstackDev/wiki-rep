@@ -5,7 +5,7 @@
 
 首先
 ```
-npm install -g hexo
+npm install -g hexo-cli
 ```
 
 然后安装依赖

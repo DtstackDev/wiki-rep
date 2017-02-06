@@ -73,5 +73,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/dtstackFE/dtstackFE.github.io.git
+  repository: https://github.com/DtstackDev/dtstackdev.github.io.git
   branch: master
